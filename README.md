@@ -39,13 +39,12 @@ Welcome to the Security Analysis repository! Here, we dive deep into the digital
 
 ...
 
+---
+
 ## Data Analysis 🔬💡
 
 Our codebase, fueled by Python magic, churns through the survey data with unparalleled precision. Harnessing the power of analytics, we unlock insights into the cyber security practices of our surveyed companies. Prepare to be dazzled by the revelations we uncover! ✨🚀
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE). The MIT License grants you the freedom to use, modify, and distribute our software with ease. Join us in our quest for cyber security excellence! 🌐✨
 
 ## Meet the Elite Squad 👥🔒
 
