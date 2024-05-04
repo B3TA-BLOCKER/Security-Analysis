@@ -1,6 +1,6 @@
-# Cyber Security Survey Analysis 🛡️
+# **Cyber Security Survey Analysis 🛡️**
 
-Welcome to the Cyber Security Survey Analysis repository! Here, we dive deep into the digital trenches, armed with data collected from a comprehensive survey across various companies. Our mission? To unveil the hidden truths behind cyber security practices, vulnerabilities, and risk management strategies. 💻🔍
+**Welcome to the Security Analysis repository! Here, we dive deep into the digital trenches, armed with data collected from a comprehensive survey across various companies. Our mission? To unveil the hidden truths behind cyber security practices, vulnerabilities, and risk management strategies. 💻🔍**
 
 ## Survey Questions 📝
 
