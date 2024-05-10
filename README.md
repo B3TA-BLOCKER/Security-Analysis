@@ -50,4 +50,5 @@ Our codebase, fueled by Python magic, churns through the survey data with unpara
 ## Group Member 👥🔒
 
 - [Hassaan Ali Bukhari](https://github.com/B3TA-BLOCKER)
+- [Rooshan Riaz](https://github.com/rooshanriaz)
 
