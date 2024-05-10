@@ -47,9 +47,7 @@ Welcome to the Security Analysis repository! Here, we dive deep into the digital
 Our codebase, fueled by Python magic, churns through the survey data with unparalleled precision. Harnessing the power of analytics, we unlock insights into the cyber security practices of our surveyed companies. Prepare to be dazzled by the revelations we uncover! ✨🚀
 
 
-## Meet the Elite Squad 👥🔒
+## Group Member 👥🔒
 
-- [Alice "The Encryptor" Smith](https://github.com/alicesmith)
-- [Bob "The Firewall" Johnson](https://github.com/bobjohnson)
-- [Charlie "The Cyber Crusader" Brown](https://github.com/charliebrown)
+- [Hassaan Ali Bukhari](https://github.com/B3TA-BLOCKER)
 
