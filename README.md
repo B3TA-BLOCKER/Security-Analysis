@@ -1,4 +1,6 @@
-# Cyber Security Survey Analysis 🛡️
+<div align="center">
+  <h1><strong>Cyber Security Survey Analysis 🛡️</strong></h1>
+</div>
 
 Welcome to the Security Analysis repository! Here, we dive deep into the digital trenches, armed with data collected from a comprehensive survey across various companies. Our mission? To unveil the hidden truths behind cyber security practices, vulnerabilities, and risk management strategies. 💻🔍
 
