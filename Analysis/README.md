@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><strong>Audit Report</strong></h2>
+  <h1><strong>Audit Report</strong></h1>
 </div>
 
 ---
