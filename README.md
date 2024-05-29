@@ -51,10 +51,10 @@ Our codebase, fueled by Python magic, churns through the survey data with unpara
 
 ## Group Member 👥🔒
 
- [Syed Muhammad Naqi Raza](https://github.com/naqirraza99)
-
 - [Hassaan Ali Bukhari](https://github.com/B3TA-BLOCKER)
 
 - [Rooshan Riaz](https://github.com/rooshanriaz)
 
 - [Muhammad Shameer Awais](https://github.com/SinisterXI)
+
+-  [Syed Muhammad Naqi Raza](https://github.com/naqirraza99)
