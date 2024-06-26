@@ -59,4 +59,3 @@ Our codebase, fueled by Python magic, churns through the survey data with unpara
 
 - [Muhammad Shameer Awais](https://github.com/SinisterXI)
 
--  [Syed Muhammad Naqi Raza](https://github.com/naqirraza99)
